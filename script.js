@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
-const birthday = '26 Apr 2022';
+const birthday = '26 Apr 2023';
 
 function countdown() {
   const birthdayDate = new Date(birthday);
